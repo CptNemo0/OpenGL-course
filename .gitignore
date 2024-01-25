@@ -1,0 +1,6 @@
+_deps/
+.vs/
+CMakeFiles/
+x64/
+Debug/
+Release/

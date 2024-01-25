@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\CityManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\imgui_impl\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\imgui_impl\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\Skybox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\src\structs.hpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\CityManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Mesh.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Object.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\imgui_impl\imgui_impl_glfw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\imgui_impl\imgui_impl_opengl3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\imgui_impl\imgui_impl_opengl3_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\project_consts.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\utility.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\Skybox.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FFD62B09-C8A3-36B1-82F6-174952A4265C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6A4A052D-0BB0-3DF6-A900-14420C49197A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SkyboxVertex.vert" />
+    <None Include="SkyboxFragment.frag" />
+    <None Include="ReflectVertex.vert" />
+    <None Include="ReflectFragment.frag" />
+    <None Include="FragmentShader.frag" />
+    <None Include="VertexShader.vert" />
+    <None Include="RefractVertex.vert" />
+    <None Include="RefractFragment.frag" />
+    <None Include="BasicVertexShader.vert" />
+    <None Include="BasicFragmentShader.frag" />
+  </ItemGroup>
+</Project>

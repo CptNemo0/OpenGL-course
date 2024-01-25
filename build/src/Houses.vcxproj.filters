@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\CityManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Mesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Object.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\imgui_impl\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\imgui_impl\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\structs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\utility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\CityManager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Mesh.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Object.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\Shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\imgui_impl\imgui_impl_glfw.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\imgui_impl\imgui_impl_opengl3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\imgui_impl\imgui_impl_opengl3_loader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\project_consts.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\utility.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\pawel\Desktop\Studia\Graphics Programming\Assignement4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FFD62B09-C8A3-36B1-82F6-174952A4265C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6A4A052D-0BB0-3DF6-A900-14420C49197A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Textures">
+      <UniqueIdentifier>{8e2b55e5-a812-4f6a-80fa-a629a069eae0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{56664aca-45a0-45e9-a3e5-d4ae229bc9ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{3708a77e-85fe-4c99-8252-7179b1471d57}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="copule_texture.jpg">
+      <Filter>Textures</Filter>
+    </Image>
+    <Image Include="grass_texture.jpg">
+      <Filter>Textures</Filter>
+    </Image>
+    <Image Include="roof_texture.jpg">
+      <Filter>Textures</Filter>
+    </Image>
+    <Image Include="wall_texture.jpg">
+      <Filter>Textures</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="copule.mtl">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="empty.mtl">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="ground_mesh.mtl">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="house_mesh.mtl">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="roof_mesh.mtl">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="FragmentShader.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="VertexShader.vert">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="copule.obj">
+      <Filter>Models</Filter>
+    </Object>
+    <Object Include="empty.obj">
+      <Filter>Models</Filter>
+    </Object>
+    <Object Include="ground_mesh.obj">
+      <Filter>Models</Filter>
+    </Object>
+    <Object Include="house_mesh.obj">
+      <Filter>Models</Filter>
+    </Object>
+    <Object Include="roof_mesh.obj">
+      <Filter>Models</Filter>
+    </Object>
+  </ItemGroup>
+</Project>

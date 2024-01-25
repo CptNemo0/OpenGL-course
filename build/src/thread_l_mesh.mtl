@@ -1,0 +1,12 @@
+# Blender 4.0.1 MTL File: 'thread_l.blend'
+# www.blender.org
+
+newmtl Threads
+Ns 0.189378
+Ka 0.660550 0.660550 0.660550
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd -o 0 0.5 0 -s 1 0.5 0 threads_texture.jpg
